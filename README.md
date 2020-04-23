@@ -12,5 +12,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 </p>
 
 <h1 align="center">
-    <img alt="AircncLogo" title="#aircncLogo" src=".github/aircnc.png" width="250px" />
+    <img alt="AirCnc-Logo" src=".github/aircnc.png" width="100%" />
 </h1>
